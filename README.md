@@ -87,7 +87,7 @@ curl http://spring-boot-native-pi.default.default.10.0.0.10.sslip.io/actuator/he
 
 ## See Also
 - [spring-boot-native-pi](https://github.com/dashaun/spring-boot-native-pi)
-- [K3s KNative Ubuntu Raspberry Pi](https://dashaun.com/posts/)
+- [K3s Knative Ubuntu Raspberry Pi](https://dashaun.com/posts/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
