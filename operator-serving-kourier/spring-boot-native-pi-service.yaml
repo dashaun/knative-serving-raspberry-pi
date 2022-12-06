@@ -1,0 +1,10 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: spring-boot-native-pi
+  namespace: default
+spec:
+  template:
+    spec:
+      containers:
+        - image: dashaun/spring-pi-native:focal-arm64
